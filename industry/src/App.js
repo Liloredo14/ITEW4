@@ -1,6 +1,4 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '@fortawesome/free-solid-svg-icons';
-import '@fortawesome/free-brands-svg-icons'
 import './App.css';
 
 import AppHeader from './components/header';
